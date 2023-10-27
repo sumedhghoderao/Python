@@ -1,0 +1,11 @@
+ git init
+ git config  user.name "sumedhghoderao"
+ git config  user.email sumedhghoderao6825@gmail.com
+ git remote add origin  https://gauravrajput89:your_token/gauravrajput89/HPCAP_OCT_2023.git
+ 
+ git add .
+ git commit -m "Initial commit"
+ git push origin master
+ 
+ 
+ 
